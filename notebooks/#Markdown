@@ -1,0 +1,35 @@
+# Movie Recommendation System
+ ## Import Libraries
+ ## Load Dataset
+ ## Feature Engineering
+ ## creating Tags
+
+ # ML Algo
+ ## Stemming 
+ ## counterVectorization
+
+## Movie-Recommend/
+
+│
+
+├── app.py
+
+├── recommender.py
+
+├── utils.py
+
+├── .env
+
+├── .gitignore
+
+│
+
+├── model/
+
+├── data/
+
+├── notebooks/
+
+Developed a Netflix-inspired AI Movie Recommendation System using Python, Scikit-learn, NLP, TMDB API, and Streamlit with a modular architecture and responsive UI
+
+"I built a Netflix-inspired Movie Recommendation System using Content-Based Filtering, Scikit-learn, NLP, TMDB API, and Streamlit. I also modularized the codebase, integrated external APIs, and deployed the application on Streamlit Cloud."

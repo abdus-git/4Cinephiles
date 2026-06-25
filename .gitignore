@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pyo
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+model/similarity.pkl
+model/movie_list.pkl
