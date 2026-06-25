@@ -13,7 +13,9 @@ Project scaffold for a movie recommendation system.
 🎬 4Cinephiles - AI Movie Recommendation System
 
 A Movie Recommendation System built with Python, Streamlit, and Machine Learning. The application recommends similar movies using Content-Based Filtering and Cosine Similarity, while displaying movie posters and information through the TMDB API
-
+![img_alt].(https://github.com/abdus-git/4Cinephiles/blob/9ff5661c0a637733e6cf771e9c056994cd26cc40/4cinephiles-img4.png)
+![img_alt].(https://github.com/abdus-git/4Cinephiles/blob/9ff5661c0a637733e6cf771e9c056994cd26cc40/4cinephiles-img3.png)
+![img_alt].(https://github.com/abdus-git/4Cinephiles/blob/9ff5661c0a637733e6cf771e9c056994cd26cc40/4cinephiles-img1.png)
 ✨ Features:
 
 🎥 Recommend similar movies instantly
